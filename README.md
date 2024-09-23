@@ -7,7 +7,7 @@ I am a passionate programming student at UCLL, driven by a curiosity for technol
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing a degree in programming at UCLL.
-- 🏫 I'm currently in the first year of the two-year program.
+- 🏫 I'm currently in the last year of the two-year program.
 
 ## 🌱 Currently Exploring
 
