@@ -8,41 +8,23 @@ I am a passionate programming student at UCLL, driven by a curiosity for technol
 
 - 🔭 I'm currently pursuing a degree in programming at UCLL.
 - 🏫 I'm currently in the last year of the two-year program.
+- 💼 I am a student entrepreneur and the founder of Decky.
 
 ## 🌱 Currently Exploring
 
-  - Learning Angular and VueJS for front-end experiences.
-  - Styling with CSS to create modern and responsive user interfaces.
-  - I'm practicing Java Spring Boot and Maven for backend development.
-  - Diving into SQL and MongoDB for efficient and scalable database management.
-  - Looking to learn more about docker.
+- Exploring Angular and VueJS to deepen my front-end experiences.
+- Styling with CSS to create modern and responsive user interfaces.
+- I'm practicing Java Spring Boot and Maven for backend development.
+- I'm also diving into React Native, which I find incredibly interesting!
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
 - 🌟 Completed a three-week internship at [Strouwi](strouwi.be).
-
-
 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kyan-decerf-122039236/)
-
+- You can send me an email [here](mailto:kyan@decky.be)
+- Feel free to visit my [website](https://www.decky.be)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
