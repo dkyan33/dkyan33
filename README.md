@@ -6,20 +6,22 @@ I am a passionate programming student at UCLL, driven by a curiosity for technol
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing a degree in programming at UCLL.
-- 🏫 I'm currently in the last year of the two-year program.
+- 🔭 I'm currently pursuing a bachelor applied computer science at UCLL.
+- 🏫 I'm currently in the first year of the two-year (shortened) program.
 - 💼 I am a student entrepreneur and the founder of Decky.
 
 ## 🌱 Currently Exploring
 
-- Exploring Angular and VueJS to deepen my front-end experiences.
-- Styling with CSS to create modern and responsive user interfaces.
+
+- Styling with tailwind to create modern and responsive user interfaces.
 - I'm practicing Java Spring Boot and Maven for backend development.
-- I'm also diving into React Native, which I find incredibly interesting!
+- Getting better with next.js for cool looking websites and web apps
+
 
 ## 🏆 Achievements
 
 - 🌟 Completed a three-week internship at [Strouwi](strouwi.be).
+- Succesfully finished my associates degree in programming at UCLL
 
 ## 📬 Get in Touch
 
